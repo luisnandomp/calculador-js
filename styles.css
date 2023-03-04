@@ -1,0 +1,42 @@
+html * {
+    padding: 0px;
+    margin: 0px;
+}
+
+#visor{
+    width: 99%;
+    height: 51px;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: right;
+}
+
+#tela{
+    width: 99%;
+    height: 50px;
+    margin: 0 auto;
+    font-size: 40px;
+    text-align: right;
+}
+
+.calc {
+    background-color: black;
+    margin: 0 auto;
+    margin-top: 50px;
+    height: 800px;
+    width: 600px;
+}
+
+.buttons{
+    margin-left: 150px;
+    margin-top: 80px;
+
+}
+
+button {
+    padding: 5px;
+    border-radius: 10px;
+    width: 75px;
+    height: 75px;
+    font-size: 20px;
+}
